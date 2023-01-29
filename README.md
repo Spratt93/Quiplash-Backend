@@ -16,6 +16,8 @@ CosmosDB:
 - id
 - Container names
 
+Testing:
+
 - `python -m venv {venv_name}` to create virtual environment
 - `pip install azure-functions` to get CLI tools
 - `func init {function_app_name} --python` to create the local dev function app
